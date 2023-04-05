@@ -1,0 +1,22 @@
+INSERT INTO book (bookId, title, author, price, quantity)
+VALUES
+  (1, 'The Great Gatsby', 'F. Scott Fitzgerald', 10.99, 100),
+  (2, 'To Kill a Mockingbird', 'Harper Lee', 8.99, 200),
+  (3, '1984', 'George Orwell', 9.99, 300),
+  (4, 'Pride and Prejudice', 'Jane Austen', 7.99, 150),
+  (5, 'The Catcher in the Rye', 'J.D. Salinger', 12.99, 250),
+  (6, 'Animal Farm', 'George Orwell', 6.99, 50),
+  (7, 'Brave New World', 'Aldous Huxley', 11.99, 75),
+  (8, 'The Grapes of Wrath', 'John Steinbeck', 8.99, 175),
+  (9, 'The Picture of Dorian Gray', 'Oscar Wilde', 9.99, 125),
+  (10, 'The Adventures of Huckleberry Finn', 'Mark Twain', 7.99, 225),
+  (11, 'Heart of Darkness', 'Joseph Conrad', 10.99, 75),
+  (12, 'One Hundred Years of Solitude', 'Gabriel Garcia Marquez', 11.99, 200),
+  (13, 'The Sound and the Fury', 'William Faulkner', 12.99, 125),
+  (14, 'Moby-Dick', 'Herman Melville', 14.99, 75),
+  (15, 'The Stranger', 'Albert Camus', 9.99, 100),
+  (16, 'Catch-22', 'Joseph Heller', 8.99, 150),
+  (17, 'The Sun Also Rises', 'Ernest Hemingway', 11.99, 175),
+  (18, 'Wuthering Heights', 'Emily Bronte', 7.99, 200),
+  (19, 'Slaughterhouse-Five', 'Kurt Vonnegut', 10.99, 100),
+  (20, 'Beloved', 'Toni Morrison', 9.99, 125);

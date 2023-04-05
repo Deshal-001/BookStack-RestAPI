@@ -1,0 +1,104 @@
+{
+"title": "The Great Gatsby",
+"author": "F. Scott Fitzgerald",
+"price": 8.99,
+"quantity": 5
+}
+
+{
+"title": "To Kill a Mockingbird",
+"author": "Harper Lee",
+"price": 12.50,
+"quantity": 7
+}
+
+{
+"title": "The Catcher in the Rye",
+"author": "J.D. Salinger",
+"price": 9.99,
+"quantity": 3
+}
+
+{
+"title": "1984",
+"author": "George Orwell",
+"price": 7.25,
+"quantity": 2
+}
+
+{
+"title": "Animal Farm",
+"author": "George Orwell",
+"price": 6.50,
+"quantity": 4
+}
+
+{
+"title": "Brave New World",
+"author": "Aldous Huxley",
+"price": 11.99,
+"quantity": 6
+}
+
+{
+"title": "Lord of the Flies",
+"author": "William Golding",
+"price": 9.99,
+"quantity": 8
+}
+
+{
+"title": "The Hobbit",
+"author": "J.R.R. Tolkien",
+"price": 13.75,
+"quantity": 10
+}
+
+{
+"title": "The Lord of the Rings",
+"author": "J.R.R. Tolkien",
+"price": 26.99,
+"quantity": 12
+}
+
+{
+"title": "Harry Potter and the Philosopher's Stone",
+"author": "J.K. Rowling",
+"price": 15.50,
+"quantity": 9
+}
+
+{
+"title": "Harry Potter and the Chamber of Secrets",
+"author": "J.K. Rowling",
+"price": 14.75,
+"quantity": 6
+}
+
+{
+"title": "Harry Potter and the Prisoner of Azkaban",
+"author": "J.K. Rowling",
+"price": 16.25,
+"quantity": 4
+}
+
+{
+"title": "Harry Potter and the Goblet of Fire",
+"author": "J.K. Rowling",
+"price": 18.99,
+"quantity": 2
+}
+
+{
+"title": "Harry Potter and the Order of Phoenix",
+"author": "J.K. Rowling",
+"price": 19.99,
+"quantity": 7
+}
+
+{
+"title": "Harry Potter and the Half-Blood Prince",
+"author": "J.K. Rowling",
+"price": 21.50,
+"quantity": 3
+}
